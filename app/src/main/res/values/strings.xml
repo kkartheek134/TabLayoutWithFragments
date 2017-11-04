@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabLayoutWithFragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">FirstFragment</string>
+    <string name="hello_blank_fragment1">SecondFragment</string>
+    <string name="hello_blank_fragment2">ThirdFragment</string>
+</resources>
